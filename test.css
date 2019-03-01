@@ -1,0 +1,36 @@
+body{
+
+	background-color: orange;
+}
+
+h1{
+	color: blue;
+	font-size: 90px;
+	text-decoration: underline;
+}
+
+#first{
+	font-size: 100px;
+}
+
+h2{
+	color: black;
+	font-size: 40px;
+
+}
+
+.small{
+	font-size: 12px;
+
+}
+
+span{
+
+	font-style: italic;
+}
+
+h1 span{
+
+	text-decoration: overline;
+}
+
